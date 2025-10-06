@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GabrielVAntunes.GabrielVAntunes" />
 
 - 🔭 I’m a Computer Science student at UMinho
 
